@@ -1,1 +1,1 @@
-# Saat Kulesi Pili wbe site template
+# Saat Kulesi Pili web site template
