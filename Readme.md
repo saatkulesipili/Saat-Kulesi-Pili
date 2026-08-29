@@ -7,7 +7,7 @@ A personal web platform combining production planning, ERP functional analysis, 
 ## 📸 Preview
 
 <p align="center">
-  <img src="img/screenshot-saatkulesipili.jpg" alt="Saat Kulesi Pili Website Preview" width="850">
+  <img src="assets/img/screenshot-saatkulesipili.png" alt="Saat Kulesi Pili Website Preview" width="850">
 </p>
 
 ---
