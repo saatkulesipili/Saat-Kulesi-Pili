@@ -46,6 +46,14 @@ Built upon a modern Bootstrap v5 architecture, the site has been customized with
 
 ---
 
+## 🎥 Project Preview
+
+You can watch the project preview below:
+
+https://github.com/user-attachments/assets/c5355761-b9d8-41ca-8a6f-2f2b51be5ce9
+
+---
+
 ## 📂 Project Structure
 
 ```text
